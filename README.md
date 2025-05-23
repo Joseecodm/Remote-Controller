@@ -91,7 +91,7 @@ REMOTE-CONTROLLER/
      ```
 ## 🔌 Diagrama de Conexión
 
-![Diagrama de Conexión](docs/connection.png)
+![Diagrama de Conexión](docs/connection.jpg)
 
 - **Botón NEXT**: GPIO4 → botón → GND  
 - **Botón BACK**: GPIO21 → botón → GND  
